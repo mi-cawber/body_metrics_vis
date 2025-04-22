@@ -1,7 +1,4 @@
 import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
-import csv
 
 #establish chronological dates for measurements
 dates = ["2/03/25", "2/09/25", "2/16/25", "2/23/25", "3/02/25", "3/09/25", "3/16/25", 

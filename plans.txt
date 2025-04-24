@@ -1,4 +1,1 @@
-1. Automate importing of dates and data (CSV) 
-2. calculate averages across the data
-3. Make the graphs prettier
-4. Read up on dataframes
+1. figure out why calories plots are the only ones beign made

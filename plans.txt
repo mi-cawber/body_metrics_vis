@@ -1,1 +1,4 @@
-1. figure out why calories plots are the only ones beign made
+1. make function to update files?
+
+things I learned
+1. code is ran at import, so if you have functions called in a file you imported, they will be called without provocation in the main file

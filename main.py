@@ -1,6 +1,3 @@
-# importing the functions from my data_plots.py file
-import data_plots as dp
+import data_functions as df
 
-
-
-dp.weight_plot()
+df.data_plot('muscle_mass.csv', 'muscle_mass', 'muscle')
